@@ -2,9 +2,3 @@ tom
 joe
 simon
 lisa
-mark
-linda
-ryia
-chris
-kelly
-engie
